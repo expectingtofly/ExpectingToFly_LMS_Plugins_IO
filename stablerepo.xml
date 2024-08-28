@@ -4,8 +4,8 @@
       <title lang="EN">ExpectingToFly Repository</title>
    </details>
    <plugins>
-      <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="1316a7d3d81d0e051a79c1f2c44ac4a666934ea7" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.40.0/BBCSoundsPlugin_2_40_0.zip" version="2.40.0">
-       <changes lang="EN">NEW 2.40.0 Track Images on On-Demand/Catchup. Other Bug fixes.</changes>
+      <plugin name="BBCSounds" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="9d2d4d5b61b1df3c0efff0a2167176091243bb0d" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.40.1/BBCSoundsPlugin_2_40_1.zip" version="2.40.1">
+       <changes lang="EN">NEW 2.40.1 Improved live radio latency; 2.40.0 Track Images on On-Demand/Catchup. Other Bug fixes.</changes>
        <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.</desc>
        <title lang="EN">BBC Sounds</title>
       </plugin>
