@@ -19,8 +19,8 @@
          <desc lang="EN">Times Radio (UK) Live and 7 Day Catch Up with on air data and images.</desc>
          <title lang="EN">Times Radio</title>
       </plugin>
-      <plugin name="GlobalPlayerUK" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/GlobalPlayerUK_Plugin_svg.png" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="c99b5c2654eb732a57be379c84f39168c8533493" url="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin/releases/download/2.6.0/GlobalPlayerUKPlugin_2_6_0.zip" version="2.6.0">
-       <changes lang="EN">NEW 2.6.0 Refactored web socket handling</changes>		
+      <plugin name="GlobalPlayerUK" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/GlobalPlayerUK_Plugin_svg.png" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin" maxTarget="*" minTarget="7.9" sha="8560135df954d24e111e033ac2314fa8abeb2b05" url="https://github.com/expectingtofly/LMS_GlobalPlayer_Plugin/releases/download/2.6.1/GlobalPlayerUKPlugin_2_6_1.zip" version="2.6.1">
+       <changes lang="EN">NEW 2.6.1 Refactored web socket handling</changes>		
        <desc lang="EN">Global Radio's UK Stations (Classic FM, Capital, Heart, LBC, Radio X etc) Live Radio (with pause and rewind), Catch-up, Live Playlists, Podcasts.</desc>
        <title lang="EN">Global Player (UK)</title>
       </plugin>
