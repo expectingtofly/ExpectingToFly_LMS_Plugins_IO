@@ -9,8 +9,8 @@
        <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
        <title lang="EN">BBC Sounds</title>
       </plugin>
-      <plugin name="VirginRadio" creator="ExpectingToFly" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="5e0e14043087e081d0ea0d262e22e949dd6233ea" url="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/2.2.3/VirginRadioPlugin_2_2_3.zip" version="2.2.3">
-       <changes lang="EN">NEW 2.2.3 Increased Catch-Up days available to 7</changes>
+      <plugin name="VirginRadio" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/VirginRadioLogo_svg.png" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/2.4.0/VirginRadioPlugin_2_4_0.zip" maxTarget="*" minTarget="7.9" sha="c42bd79a8c53c873497fd65b2acf2b3c0d5a31a8" url="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/2.4.0/VirginRadioPlugin_2_4_0.zip" version="2.4.0">
+       <changes lang="EN">NEW 2.4.0 Fixed live radio and catchup</changes>
        <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live Virgin Radio stations and 7 day catch up listening.</desc>
        <title lang="EN">Virgin Radio (UK)</title>
       </plugin>
