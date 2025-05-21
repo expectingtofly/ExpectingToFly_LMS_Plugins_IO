@@ -4,8 +4,8 @@
       <title lang="EN">ExpectingToFly Repository</title>
    </details>
    <plugins>
-      <plugin name="BBCSounds" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="139a7e893d9a204c835ff157ed930b8f5a6ca233" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.50.5/BBCSoundsPlugin_2_50_5.zip" version="2.50.5">
-       <changes lang="EN">NEW 2.50.5 Fix sign-in to BBC Account</changes>
+       <plugin name="BBCSounds" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="5870f615275dae820a377fa50306994dffcda6fb" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.50.6/BBCSoundsPlugin_2_50_6.zip" version="2.50.6">
+       <changes lang="EN">NEW 2.50.6 Further sign-in fixes</changes>
        <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
        <title lang="EN">BBC Sounds</title>
       </plugin>
