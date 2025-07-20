@@ -4,8 +4,8 @@
       <title lang="EN">ExpectingToFly Repository</title>
    </details>
    <plugins>
-      <plugin name="BBCSounds" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="a641893aed5431e1ff9648a7c45a9731bdd92933" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.50.8/BBCSoundsPlugin_2_50_8.zip" version="2.50.8">
-       <changes lang="EN">NEW 2.50.8 Minor maintenance fixes</changes>
+      <plugin name="BBCSounds" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="a5e31999b5c0d61e2bd5dd5e796eeb1f5aa0ce5f" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.51.0/BBCSoundsPlugin_2_51_0.zip" version="2.51.0">
+       <changes lang="EN">NEW 2.51.0 New International Menu for listeners outside the UK</changes>
        <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
        <title lang="EN">BBC Sounds</title>
       </plugin>
