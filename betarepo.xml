@@ -9,8 +9,8 @@
        <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
        <title lang="EN">BBC Sounds</title>
       </plugin>
-      <plugin name="VirginRadio" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/VirginRadioLogo_svg.png" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/2.4.0/VirginRadioPlugin_2_4_0.zip" maxTarget="*" minTarget="7.9" sha="ece7edfc197d7d9932c4928ad5cc02c52d7771db" url="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/3.0.3/VirginRadioPlugin_3_0_3.zip" version="3.0.3">
-       <changes lang="EN">NEW 3.0.3 Now with all News UK stations : Talk Radio, talkSport, Times Radio and Virgin Radio</changes>
+      <plugin name="VirginRadio" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/VirginRadioLogo_svg.png" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin" maxTarget="*" minTarget="7.9" sha="7e88843d161272fd8051d5b4b352f1f73456cfb4" url="https://github.com/expectingtofly/LMS_Virgin_Radio_Plugin/releases/download/3.04/VirginRadioPlugin_3_0_4.zip" version="3.0.4">
+       <changes lang="EN">NEW 3.0.4 Fix Live Streaming for Virgin Radio Genre stations (Chilled, Legends etc)</changes>
        <desc lang="EN">Virgin Radio (UK) Plugin.  Access to live and 7 day catch up for Virgin Radio, Talk Radio, talkSport and Times Radio, includes all News UK stations</desc>
        <title lang="EN">Virgin Radio (UK)</title>
       </plugin>
