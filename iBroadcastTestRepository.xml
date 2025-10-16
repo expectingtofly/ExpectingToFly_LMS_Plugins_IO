@@ -4,7 +4,7 @@
       <title lang="EN">ExpectingToFly iBroadcast Testing Repository</title>
    </details>
    <plugins>  
-      <plugin name="iBroadcast" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/iBroadcast.png" link="https://github.com/expectingtofly/LMS_iBroadcast_Plugin" maxTarget="*" minTarget="8.1" sha="08d898a5f61c6fbd2d6cd367e3f796949c0ef5ce" url="https://github.com/expectingtofly/LMS_iBroadcast_Plugin/releases/download/0.0.11/LMS_iBroadcast_Plugin_0_0_11.zip" version="0.0.11">
+      <plugin name="iBroadcast" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/iBroadcast.png" link="https://github.com/expectingtofly/LMS_iBroadcast_Plugin" maxTarget="*" minTarget="8.1" sha="610b5e931b4170bf3f08f6ea21605b4b34e9153e" url="https://github.com/expectingtofly/LMS_iBroadcast_Plugin/releases/download/0.0.12/LMS_iBroadcast_Plugin_0_0_12.zip" version="0.0.12">
       <desc lang="EN">iBroadcast online personal music library integration</desc>
       <title lang="EN">IBroadcast Online Music Library</title>
    </plugin>
