@@ -29,5 +29,10 @@
 			<desc lang="EN">Radio Favourites - Manage your favourite radios stations. Select your station according to the current live programme.</desc>
 			<title lang="EN">Radio Favourites</title>
 		</plugin>
+      <plugins>  
+         <plugin name="iBroadcast" category="musicservices" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/iBroadcast.png" link="https://github.com/expectingtofly/LMS_iBroadcast_Plugin" maxTarget="*" minTarget="8.1" sha="c65227c880e7180d66fe30a34a99df505300d56a" url="https://github.com/expectingtofly/LMS_iBroadcast_Plugin/releases/download/0.1.0/LMS_iBroadcast_Plugin_0_1_0.zip" version="0.1.0">
+         <desc lang="EN">iBroadcast online personal music library integration</desc>
+         <title lang="EN">IBroadcast Online Music Library</title>
+      </plugin>
    </plugins>
 </extensions>
