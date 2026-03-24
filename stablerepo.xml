@@ -4,8 +4,8 @@
       <title lang="EN">ExpectingToFly Repository</title>
    </details>
    <plugins>
-      <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="72d3107822a80d0cc5152b8edea09cec92ee8ec8" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.54.4/BBCSoundsPlugin_2_54_4.zip" version="2.54.4">
-       <changes lang="EN">NEW 2.54.3 Added Explore menu. Upgraded MediaSelector. 2.54.4 Fix erroneous logging</changes>
+     <plugin name="BBCSounds" category="radio" creator="ExpectingToFly" icon="https://expectingtofly.github.io/ExpectingToFly_LMS_Plugins_IO/BBCSoundsIcon_svg.png" email="stu@expectingtofly.co.uk" link="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/wiki" maxTarget="*" minTarget="7.9" sha="ebeb2c3856a2e1d6677c820a8e8914dcb549953d" url="https://github.com/expectingtofly/LMS_BBC_Sounds_Plugin/releases/download/2.54.5/BBCSoundsPlugin_2_54_5.zip" version="2.54.5">
+       <changes lang="EN">NEW 2.54.3 Added Explore menu. Upgraded MediaSelector. 2.54.5 Fix - ensure https stream selection</changes>
        <desc lang="EN">Complete BBC Sounds implementation as an LMS Plugin.  BBC live radio, catch-up, music mixes and podcasts.</desc>
        <title lang="EN">BBC Sounds</title>
       </plugin>
